@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/obj
+/bin/Debug/netcoreapp2.2
+/.vs/Protoform
